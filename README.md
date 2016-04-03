@@ -1,2 +1,2 @@
 # gs-metre
-Insight IITB - Annual work report of the iInstitute G.Secs 
+Insight IITB - Annual work report of the Institute G.Secs 
